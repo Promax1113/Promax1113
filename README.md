@@ -2,7 +2,7 @@
 - 👀 I’m interested in Git.
 - 🌱 I’m currently learning Git.
 - 💞️ I’m looking to collaborate on Git.
-- 📫 How to reach me: Don't.
+- 📫 How to reach me: **@promax1113** on Twitter.
 
 <!---
 Promax1113/Promax1113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
