@@ -5,7 +5,7 @@
 - 📫 How to reach me: **@promax1113** on Twitter.
 
 
-[![Promax1113's GitHub stats](https://github-readme-stats.vercel.app/api?username=promax1113)](https://github.com/anuraghazra/github-readme-stats)
+[![Promax1113's GitHub stats](https://github-readme-stats.vercel.app/api?username=promax1113&show_icons=true)]
 <!---
 Promax1113/Promax1113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
