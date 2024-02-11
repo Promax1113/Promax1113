@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Promax1113
-- 👀 I’m interested in Go.
-- 🌱 I’m currently learning Networking.
+- 👀 I’m interested in Rust and C++.
+- 🌱 I’m currently learning Networking (kinda hard).
 - 💞️ I’m looking to collaborate on Python.
 - 📫 How to reach me: **@promax1113** on Twitter.
 
